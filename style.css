@@ -1,0 +1,30 @@
+header, h2, footer {
+    background-color: #6B8E23;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-radius: 20px;
+    font-family: "Lucida", monospace;
+    
+}
+
+
+#garden {
+    border-radius: 20px;
+    margin-left: 15px;
+    margin-top: 20px;
+    width: 93%;
+}
+
+p {
+    margin-left: 15px;
+    text-indent: 30px;
+    font-family: "Lucida", monospace;
+    
+}
+
+main {
+    width: 70%;
+    margin: 0 auto;
+    background-color: #98FB98;
+}
